@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnlee4real&label=Profile%20views&color=0e75b6&style=flat" alt="johnlee4real" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnlee4real" alt="johnlee4real" /></a> </p>
-
 - 🔭 I’m currently working on [Fenix Multi-Tool](https://github.com/JohnLee4real/Fenix-Multi-Tool/tree/main)
 
 - 🌱 I’m currently learning **Html & CSS**
